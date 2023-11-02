@@ -1,3 +1,3 @@
-# PazzyBoardmanGraphics
+# pbgraphics.github.io
 
 This is a read me file about my graphics website. Not sure what to put here...
